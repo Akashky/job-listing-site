@@ -24,7 +24,7 @@ const Jobs = ({ data, setKeywords, keywords }) => {
 
   useEffect(() => {
     modifiedData();
-  }, [keywords]);
+  });
 
   return (
     <div className="jobs">
