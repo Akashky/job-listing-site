@@ -3,7 +3,7 @@
 This repository contains code for Job listing site in reactjs.
 
 View Demo:
-https://job-listing-site.vercel.app/
+https://find-job-platform.netlify.app/
 
 ## Available Scripts
 
